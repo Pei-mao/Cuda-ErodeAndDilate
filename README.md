@@ -13,3 +13,11 @@ A Small Implementation of Image Processing Using CUDA.
 4. **Execute CUDA kernel**: Execute the CUDA kernels for erosion and dilation operations.
 5. **Retrieve results**: Copy the computed results from the GPU back to the CPU and save the resulting images to the specified path.
 6. **Perform operations using OpenCV**: Perform erosion and dilation operations using OpenCV's `erode` and `dilate` functions, and save the results.
+
+
+## Code Demonstration
+
+![show1 Image](images/show1.png)
+![show2 Image](images/show2.png)
+![show3 Image](images/show3.png)
+![show4 Image](images/show4.png)
