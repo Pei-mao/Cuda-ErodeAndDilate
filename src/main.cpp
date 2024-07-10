@@ -13,8 +13,8 @@ __global__ void dilateInCuda(unsigned char* dataIn, unsigned char* dataOut, Size
 
 int main()
 {
-    Mat srcImg = imread("../images/finger.jpg"); //输入图片
-    Mat grayImg = imread("../images/finger.jpg", 0); //输入的灰度图
+    Mat srcImg = imread("../images/finger.jpg"); //輸入圖片
+    Mat grayImg = imread("../images/finger.jpg", 0); //輸入的灰度圖
 
     if (srcImg.empty() || grayImg.empty()) {
         cerr << "Error: Could not open or find the image." << endl;

@@ -20,4 +20,3 @@ A Small Implementation of Image Processing Using CUDA.
 ![show1 Image](images/show1.png)
 ![show2 Image](images/show2.png)
 ![show3 Image](images/show3.png)
-![show4 Image](images/show4.png)
