@@ -1,5 +1,5 @@
 # Cuda-ErodeAndDilate
-A Small Implementation of Image Processing Using CUDA.
+A small implementation of image processing operations (erosion and dilation) using CUDA for parallel computation.
 
 | Raw Image | Erosion Image | Dilation Image |
 |:---------:|:-------------:|:--------------:|
